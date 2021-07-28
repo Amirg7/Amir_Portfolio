@@ -1,0 +1,31 @@
+body {
+  background-image: url("https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif");
+  background-size: cover;
+  background-color: black;
+  font-family: sans-serif, arial, Helvetica;
+  color: silver;
+  text-align: center;
+  list-style-position: inside;
+}
+
+#my-picture {
+  align-items: center;
+  border-radius: 50%;
+  border: 5px solid silver;
+}
+
+h3,
+h4 {
+  text-decoration: underline;
+  text-decoration-thickness: 4px;
+}
+
+h1,
+h3,
+h4 {
+  text-shadow: 4px 4px blue;
+}
+
+.nav-bar {
+  color: darkmagenta;
+}
